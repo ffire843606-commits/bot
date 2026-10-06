@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "aish",
+    "username": "hasham da asqq",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "monsoonorignal.aternos.me",
+    "ip": "pyschoff.aternos.me",
     "port": 13191,
     "version": "1.20.1",
     "try-creative": false
@@ -31,8 +31,8 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "hlo prince",
-        "prince is noob",
+        "hlo hasham",
+        "karan is noob",
         "are you gay"
       ]
     },
