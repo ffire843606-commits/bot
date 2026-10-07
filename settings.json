@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "pyschoff.aternos.me",
-    "port": 13191,
+    "port": 16103,
     "version": "1.20.1",
     "try-creative": false
   },
@@ -32,7 +32,7 @@
       "repeat-delay": 120,
       "messages": [
         "hlo hasham",
-        "karan is noob",
+        "hasham is noob",
         "are you gay"
       ]
     },
